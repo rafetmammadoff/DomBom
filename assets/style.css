@@ -1,0 +1,33 @@
+.m-contain {
+  width: 80%;
+}
+
+.col-lg-4 {
+  margin-top: 30px;
+}
+
+.col-lg-4 img {
+  border: 3px solid #c9c5c5;
+}
+
+.col-lg-4 .title {
+  color: #a9a9aa;
+}
+
+.col-lg-4 .content {
+  color: #a9a9aa;
+}
+
+.col-lg-4 .foot {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: orange;
+}
+/*# sourceMappingURL=style.css.map */
